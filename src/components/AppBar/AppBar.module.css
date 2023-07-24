@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  /* justify-content: flex-end; */
+  align-items: center;
+  margin-bottom: 16px;
+
+  width: 960px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  background: rgba(255, 255, 255, 0.29);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(9.1px);
+  -webkit-backdrop-filter: blur(9.1px);
+}
