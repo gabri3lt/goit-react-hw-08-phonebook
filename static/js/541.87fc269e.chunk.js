@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[541],{1541:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var o="HomePage_wrapper__fbr7T",a="HomePage_title__UFLA3",s=r(184),i=function(){return(0,s.jsxs)("div",{className:o,children:[(0,s.jsxs)("h1",{className:a,children:["Your Contacts"," ",(0,s.jsx)("span",{role:"img","aria-label":"Telephone icon",children:"\u260e\ufe0f"})]}),(0,s.jsx)("p",{children:"Please Register or Login"})]})}}}]);
+//# sourceMappingURL=541.87fc269e.chunk.js.map
